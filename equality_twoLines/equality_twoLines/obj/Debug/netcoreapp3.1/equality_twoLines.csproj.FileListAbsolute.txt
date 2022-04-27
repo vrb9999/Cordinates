@@ -1,0 +1,14 @@
+D:\RFP\RFP-2022\equality_twoLines\equality_twoLines\bin\Debug\netcoreapp3.1\equality_twoLines.exe
+D:\RFP\RFP-2022\equality_twoLines\equality_twoLines\bin\Debug\netcoreapp3.1\equality_twoLines.deps.json
+D:\RFP\RFP-2022\equality_twoLines\equality_twoLines\bin\Debug\netcoreapp3.1\equality_twoLines.runtimeconfig.json
+D:\RFP\RFP-2022\equality_twoLines\equality_twoLines\bin\Debug\netcoreapp3.1\equality_twoLines.runtimeconfig.dev.json
+D:\RFP\RFP-2022\equality_twoLines\equality_twoLines\bin\Debug\netcoreapp3.1\equality_twoLines.dll
+D:\RFP\RFP-2022\equality_twoLines\equality_twoLines\bin\Debug\netcoreapp3.1\equality_twoLines.pdb
+D:\RFP\RFP-2022\equality_twoLines\equality_twoLines\obj\Debug\netcoreapp3.1\equality_twoLines.csproj.AssemblyReference.cache
+D:\RFP\RFP-2022\equality_twoLines\equality_twoLines\obj\Debug\netcoreapp3.1\equality_twoLines.GeneratedMSBuildEditorConfig.editorconfig
+D:\RFP\RFP-2022\equality_twoLines\equality_twoLines\obj\Debug\netcoreapp3.1\equality_twoLines.AssemblyInfoInputs.cache
+D:\RFP\RFP-2022\equality_twoLines\equality_twoLines\obj\Debug\netcoreapp3.1\equality_twoLines.AssemblyInfo.cs
+D:\RFP\RFP-2022\equality_twoLines\equality_twoLines\obj\Debug\netcoreapp3.1\equality_twoLines.csproj.CoreCompileInputs.cache
+D:\RFP\RFP-2022\equality_twoLines\equality_twoLines\obj\Debug\netcoreapp3.1\equality_twoLines.dll
+D:\RFP\RFP-2022\equality_twoLines\equality_twoLines\obj\Debug\netcoreapp3.1\equality_twoLines.pdb
+D:\RFP\RFP-2022\equality_twoLines\equality_twoLines\obj\Debug\netcoreapp3.1\equality_twoLines.genruntimeconfig.cache
