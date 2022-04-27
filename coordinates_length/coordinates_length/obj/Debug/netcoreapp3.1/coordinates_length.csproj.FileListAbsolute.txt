@@ -1,0 +1,14 @@
+D:\RFP\RFP-2022\coordinates_length\coordinates_length\bin\Debug\netcoreapp3.1\coordinates_length.exe
+D:\RFP\RFP-2022\coordinates_length\coordinates_length\bin\Debug\netcoreapp3.1\coordinates_length.deps.json
+D:\RFP\RFP-2022\coordinates_length\coordinates_length\bin\Debug\netcoreapp3.1\coordinates_length.runtimeconfig.json
+D:\RFP\RFP-2022\coordinates_length\coordinates_length\bin\Debug\netcoreapp3.1\coordinates_length.runtimeconfig.dev.json
+D:\RFP\RFP-2022\coordinates_length\coordinates_length\bin\Debug\netcoreapp3.1\coordinates_length.dll
+D:\RFP\RFP-2022\coordinates_length\coordinates_length\bin\Debug\netcoreapp3.1\coordinates_length.pdb
+D:\RFP\RFP-2022\coordinates_length\coordinates_length\obj\Debug\netcoreapp3.1\coordinates_length.csproj.AssemblyReference.cache
+D:\RFP\RFP-2022\coordinates_length\coordinates_length\obj\Debug\netcoreapp3.1\coordinates_length.GeneratedMSBuildEditorConfig.editorconfig
+D:\RFP\RFP-2022\coordinates_length\coordinates_length\obj\Debug\netcoreapp3.1\coordinates_length.AssemblyInfoInputs.cache
+D:\RFP\RFP-2022\coordinates_length\coordinates_length\obj\Debug\netcoreapp3.1\coordinates_length.AssemblyInfo.cs
+D:\RFP\RFP-2022\coordinates_length\coordinates_length\obj\Debug\netcoreapp3.1\coordinates_length.csproj.CoreCompileInputs.cache
+D:\RFP\RFP-2022\coordinates_length\coordinates_length\obj\Debug\netcoreapp3.1\coordinates_length.dll
+D:\RFP\RFP-2022\coordinates_length\coordinates_length\obj\Debug\netcoreapp3.1\coordinates_length.pdb
+D:\RFP\RFP-2022\coordinates_length\coordinates_length\obj\Debug\netcoreapp3.1\coordinates_length.genruntimeconfig.cache
