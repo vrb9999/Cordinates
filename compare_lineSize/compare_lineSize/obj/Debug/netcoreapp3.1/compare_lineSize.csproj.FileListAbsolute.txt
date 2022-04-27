@@ -1,0 +1,14 @@
+D:\RFP\RFP-2022\compare_lineSize\compare_lineSize\bin\Debug\netcoreapp3.1\compare_lineSize.exe
+D:\RFP\RFP-2022\compare_lineSize\compare_lineSize\bin\Debug\netcoreapp3.1\compare_lineSize.deps.json
+D:\RFP\RFP-2022\compare_lineSize\compare_lineSize\bin\Debug\netcoreapp3.1\compare_lineSize.runtimeconfig.json
+D:\RFP\RFP-2022\compare_lineSize\compare_lineSize\bin\Debug\netcoreapp3.1\compare_lineSize.runtimeconfig.dev.json
+D:\RFP\RFP-2022\compare_lineSize\compare_lineSize\bin\Debug\netcoreapp3.1\compare_lineSize.dll
+D:\RFP\RFP-2022\compare_lineSize\compare_lineSize\bin\Debug\netcoreapp3.1\compare_lineSize.pdb
+D:\RFP\RFP-2022\compare_lineSize\compare_lineSize\obj\Debug\netcoreapp3.1\compare_lineSize.csproj.AssemblyReference.cache
+D:\RFP\RFP-2022\compare_lineSize\compare_lineSize\obj\Debug\netcoreapp3.1\compare_lineSize.GeneratedMSBuildEditorConfig.editorconfig
+D:\RFP\RFP-2022\compare_lineSize\compare_lineSize\obj\Debug\netcoreapp3.1\compare_lineSize.AssemblyInfoInputs.cache
+D:\RFP\RFP-2022\compare_lineSize\compare_lineSize\obj\Debug\netcoreapp3.1\compare_lineSize.AssemblyInfo.cs
+D:\RFP\RFP-2022\compare_lineSize\compare_lineSize\obj\Debug\netcoreapp3.1\compare_lineSize.csproj.CoreCompileInputs.cache
+D:\RFP\RFP-2022\compare_lineSize\compare_lineSize\obj\Debug\netcoreapp3.1\compare_lineSize.dll
+D:\RFP\RFP-2022\compare_lineSize\compare_lineSize\obj\Debug\netcoreapp3.1\compare_lineSize.pdb
+D:\RFP\RFP-2022\compare_lineSize\compare_lineSize\obj\Debug\netcoreapp3.1\compare_lineSize.genruntimeconfig.cache
